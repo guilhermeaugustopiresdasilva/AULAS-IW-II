@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(99, 67, 116);
+    color: aliceblue;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    margin: 120px;
+}
+
+button{
+    background-color: blueviolet;
+    color: aliceblue;
+    font-family: cursive;
+    border-radius: 10px;
+    border-color: rgb(178, 101, 250);
+}
